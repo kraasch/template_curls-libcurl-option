@@ -7,5 +7,4 @@ This repo is a basic template for creating such queries.
 
 ## Meta
 
- - Shows use of *curl's* libcurl option.
- - API example from here: http://api.corpora.uni-leipzig.de/ws/swagger-ui.html#/cooccurrences-service/getCooccurrencesUsingGET
+ - The default API is some generic API from Uni Leipzig: https://api.wortschatz-leipzig.de/ws/swagger-ui/index.html
